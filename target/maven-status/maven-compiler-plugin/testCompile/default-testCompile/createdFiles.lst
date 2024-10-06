@@ -1,0 +1,10 @@
+pageObjects\BasePg.class
+testCases\LoginTest.class
+utilities\ExtentReportManager.class
+TestBase\BaseClass.class
+pageObjects\HomePg.class
+pageObjects\RegistrationPg.class
+testCases\AcctRegistrationTest.class
+roughWork\ReadingDataFromExcel.class
+pageObjects\LoginPg.class
+pageObjects\MyAccountPg.class

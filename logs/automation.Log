@@ -1,0 +1,61 @@
+2024-10-06 10: 52:22 INFO  AcctRegistrationTest:56 - **Launching Application!**
+>./logs2024-10-06 10: 52:24 INFO  AcctRegistrationTest:17 - **Starting Account Registration!**
+>./logs2024-10-06 10: 52:25 INFO  AcctRegistrationTest:22 - Clicking on myAccount
+>./logs2024-10-06 10: 52:25 INFO  AcctRegistrationTest:25 - Clicking Regster link
+>./logs2024-10-06 10: 52:25 INFO  AcctRegistrationTest:28 - Providing customer information
+>./logs2024-10-06 10: 52:28 INFO  AcctRegistrationTest:42 - Validating expected message..
+>./logs2024-10-06 10: 52:28 INFO  AcctRegistrationTest:45 - Account registration test passed!
+>./logs2024-10-06 10: 52:28 INFO  AcctRegistrationTest:49 - ***Finished Account Registration***
+>./logs2024-10-06 10: 52:30 INFO  LoginTest:56 - **Launching Application!**
+>./logs2024-10-06 10: 52:33 INFO  LoginTest:15 - ***Starting Login Test!***
+>./logs2024-10-06 10: 52:33 INFO  LoginTest:25 - ***Clicked on accouunt Login link!***
+>./logs2024-10-06 10: 52:33 INFO  LoginTest:29 - ***Entering Login information!***
+>./logs2024-10-06 10: 52:35 INFO  LoginTest:33 - ***Clicked on login button!***
+>./logs2024-10-06 10: 52:35 INFO  LoginTest:39 - ***validating Login!***
+>./logs2024-10-06 10: 52:35 INFO  LoginTest:46 - ***Starting Login Test completed!***
+>./logs2024-10-06 10: 57:41 INFO  AcctRegistrationTest:56 - **Launching Application!**
+>./logs2024-10-06 10: 57:42 INFO  AcctRegistrationTest:17 - **Starting Account Registration!**
+>./logs2024-10-06 10: 57:42 INFO  AcctRegistrationTest:22 - Clicking on myAccount
+>./logs2024-10-06 10: 57:45 INFO  AcctRegistrationTest:25 - Clicking Regster link
+>./logs2024-10-06 10: 57:45 INFO  AcctRegistrationTest:28 - Providing customer information
+>./logs2024-10-06 10: 57:47 INFO  AcctRegistrationTest:42 - Validating expected message..
+>./logs2024-10-06 10: 57:47 INFO  AcctRegistrationTest:45 - Account registration test passed!
+>./logs2024-10-06 10: 57:47 INFO  AcctRegistrationTest:49 - ***Finished Account Registration***
+>./logs2024-10-06 10: 57:49 INFO  LoginTest:56 - **Launching Application!**
+>./logs2024-10-06 10: 57:52 INFO  LoginTest:15 - ***Starting Login Test!***
+>./logs2024-10-06 10: 57:52 INFO  LoginTest:25 - ***Clicked on accouunt Login link!***
+>./logs2024-10-06 10: 57:52 INFO  LoginTest:29 - ***Entering Login information!***
+>./logs2024-10-06 10: 57:54 INFO  LoginTest:33 - ***Clicked on login button!***
+>./logs2024-10-06 10: 57:54 INFO  LoginTest:39 - ***validating Login!***
+>./logs2024-10-06 10: 57:54 INFO  LoginTest:46 - ***Starting Login Test completed!***
+>./logs2024-10-06 11: 41:38 INFO  AcctRegistrationTest:56 - **Launching Application!**
+>./logs2024-10-06 11: 41:39 INFO  AcctRegistrationTest:17 - **Starting Account Registration!**
+>./logs2024-10-06 11: 41:39 INFO  AcctRegistrationTest:22 - Clicking on myAccount
+>./logs2024-10-06 11: 41:42 INFO  AcctRegistrationTest:25 - Clicking Regster link
+>./logs2024-10-06 11: 41:42 INFO  AcctRegistrationTest:28 - Providing customer information
+>./logs2024-10-06 11: 41:44 INFO  AcctRegistrationTest:42 - Validating expected message..
+>./logs2024-10-06 11: 41:44 INFO  AcctRegistrationTest:45 - Account registration test passed!
+>./logs2024-10-06 11: 41:44 INFO  AcctRegistrationTest:49 - ***Finished Account Registration***
+>./logs2024-10-06 11: 41:46 INFO  LoginTest:56 - **Launching Application!**
+>./logs2024-10-06 11: 41:49 INFO  LoginTest:15 - ***Starting Login Test!***
+>./logs2024-10-06 11: 41:50 INFO  LoginTest:25 - ***Clicked on accouunt Login link!***
+>./logs2024-10-06 11: 41:50 INFO  LoginTest:29 - ***Entering Login information!***
+>./logs2024-10-06 11: 41:51 INFO  LoginTest:33 - ***Clicked on login button!***
+>./logs2024-10-06 11: 41:51 INFO  LoginTest:39 - ***validating Login!***
+>./logs2024-10-06 11: 41:51 INFO  LoginTest:46 - ***Starting Login Test completed!***
+>./logs2024-10-06 11: 56:32 INFO  AcctRegistrationTest:56 - **Launching Application!**
+>./logs2024-10-06 11: 56:35 INFO  AcctRegistrationTest:17 - **Starting Account Registration!**
+>./logs2024-10-06 11: 56:35 INFO  AcctRegistrationTest:22 - Clicking on myAccount
+>./logs2024-10-06 11: 56:36 INFO  AcctRegistrationTest:25 - Clicking Regster link
+>./logs2024-10-06 11: 56:36 INFO  AcctRegistrationTest:28 - Providing customer information
+>./logs2024-10-06 11: 56:38 INFO  AcctRegistrationTest:42 - Validating expected message..
+>./logs2024-10-06 11: 56:38 INFO  AcctRegistrationTest:45 - Account registration test passed!
+>./logs2024-10-06 11: 56:38 INFO  AcctRegistrationTest:49 - ***Finished Account Registration***
+>./logs2024-10-06 11: 56:40 INFO  LoginTest:56 - **Launching Application!**
+>./logs2024-10-06 11: 56:43 INFO  LoginTest:15 - ***Starting Login Test!***
+>./logs2024-10-06 11: 56:43 INFO  LoginTest:25 - ***Clicked on accouunt Login link!***
+>./logs2024-10-06 11: 56:43 INFO  LoginTest:29 - ***Entering Login information!***
+>./logs2024-10-06 11: 56:45 INFO  LoginTest:33 - ***Clicked on login button!***
+>./logs2024-10-06 11: 56:45 INFO  LoginTest:39 - ***validating Login!***
+>./logs2024-10-06 11: 56:45 INFO  LoginTest:46 - ***Starting Login Test completed!***
+>./logs
